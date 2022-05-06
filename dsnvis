@@ -1,0 +1,14 @@
+X ={"pavan":["1","Manager","50k","kakinada"],
+    "ramesh":["2","secretary","60K","rjy"]
+    }
+e = input("enter empname")
+print("enter the empno.",X[e][0])
+print("enter the manager",X[e][1])
+print("enter the salary",X[e][2])
+print("enter the city",X[e][3])
+
+enter empnamepavan
+enter the empno. 1
+enter the manager Manager
+enter the salary 50k
+enter the city kakinada
